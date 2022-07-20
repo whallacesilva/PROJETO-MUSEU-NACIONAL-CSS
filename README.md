@@ -3,10 +3,13 @@
 Site fícticio criado utilizando as tecnologias HTML5 e CSS3
 
 Contem:
-Mapa
-Video
+Formularios
+Galeria de fotos
+iframe - Mapa
+iframe - Video
+Normalize
 
 Próximo passo, aprender BOOSTRAP E JAVASCRIPT!
 
 #borapracima
-#rocketseat
+
